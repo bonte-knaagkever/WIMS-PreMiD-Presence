@@ -1,5 +1,5 @@
 # WIMS PreMiD-Presence
-🕹 Presences voor PreMiD met WIMS 
+🕹 WIMS Presence voor PreMiD   
 
 Volledige WIMS rich presence voor Discord  
 ## Installatie:
